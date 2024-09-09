@@ -1,4 +1,4 @@
-TripleTen Sprint 7 Project - [Zomato Analysis]9https://public.tableau.com/views/IvanPetrashishin-FinalProject/RestaurantAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+TripleTen Sprint 7 Project - Zomato Analysis
 This is the last project I worked on in the TripleTen BI Analyst program. 
 
 Restaurant Analysis
