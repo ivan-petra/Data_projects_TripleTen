@@ -1,7 +1,7 @@
 TripleTen Sprint 6 Project - Power BI Project
 This is the 6th project I worked on in the TripleTen BI Analyst program. 
 
-Shopify App Analysis
+Shopify App Analysis (https://www.loom.com/share/1b4ddb90df7f41b99f1dfaaafdbde582?sid=7fa27670-ba7f-40bd-914a-137c0f36b052)
 The project task was to review the landscape of apps on the Shopify platform and figure out what key factors play into the success of a Shopify app
 
 The Data
