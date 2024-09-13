@@ -1,4 +1,4 @@
-TripleTen Sprint 7 Project - Zomato Analysis
+TripleTen Sprint 7 Project - (Zomato Analysis)[https://www.loom.com/share/903c49a14cc34ec89e1386e54fc56346?sid=dddef091-2e20-491c-8e34-e8d8ac0f15f9]
 This is the last project I worked on in the TripleTen BI Analyst program. 
 
 Restaurant Analysis
